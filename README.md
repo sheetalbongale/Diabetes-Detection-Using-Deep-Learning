@@ -1,10 +1,12 @@
 # Diabetes Detection Using Keras
 
+![neural-net](img/neural-net.png)
 ## Objective: 
 This is a simple binary classification problem to detect an onset of diabetes. This is my first project to use neural network in Keras. 
 
 ## Data:
-[dataset](data/pima-indians-diabetes.csv)
+[Pima-Indians-Diabetes-Dataset](data/pima-indians-diabetes.csv)
+
 In this Keras project, I am using the Pima Indians onset of diabetes dataset. 
 It describes patient medical record data for Pima Indians and whether they had an onset of diabetes within five years.
 
