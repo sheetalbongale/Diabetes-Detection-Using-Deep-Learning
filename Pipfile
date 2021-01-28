@@ -12,6 +12,7 @@ pandas = "*"
 matplotlib = "*"
 numpy = "*"
 ipykernel = "*"
+scikit-learn = "*"
 
 [requires]
 python_version = "3.8"
